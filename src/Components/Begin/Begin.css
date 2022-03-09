@@ -1,0 +1,134 @@
+.begin{
+    /* text-align: center; */
+    max-width: 100%;
+    padding: 5%;
+    /* margin-top: 10px; */
+    padding-left: 8%;
+    background: rgb(252, 252, 252);
+}
+.begin .tt{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.tt h1{
+    font-size: 25px;
+    font-weight: 700;
+}
+.tt p span{
+    font-weight: 700;
+}
+.tt2{
+    text-align: center;
+}
+.tt2 h1{
+    color: red;
+    margin-bottom: 40px;
+}
+.tt2 p{
+    font-size: 15px;
+    margin-bottom: 40px;
+
+}
+.begin .tt h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.begin .tt p{
+    font-size: 30px;
+    margin-bottom: 70px;
+}
+
+.btext{
+    margin-left: 200px;
+    width: 50%;
+    /* margin-left: 1%; */
+}
+.btext h1{
+    font-size: 25px;
+    font-weight: 700;
+}
+.bbtext p{
+    font-size: 15px;
+}
+.btext p{
+    margin-top: 20px;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.btext p span{
+    margin-top: 20px;
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+}
+.i1{
+    width: 300px;
+    /* margin: 15%; */
+}
+@media only screen and (max-width: 1399px){
+    .btext{
+        /* margin-top: 200px; */
+        /* width: 100%; */
+        margin-left: -10px;
+        /* margin-left: 1%; */
+    }
+    
+    .i1{
+        margin-bottom: 50px;
+        width: 300px;
+        margin-left: 10%;
+    }   
+    .i2{
+        /* margin-left: 10%; */
+    }
+}
+.i2{
+    width: 100%;
+    margin-top: 40px;
+}
+.speak{
+    padding-top: 120px;
+    margin-bottom: 100px;
+}
+.speak .container{
+    max-width: 100%;
+    padding-left: 10%;
+}
+.speak h1{
+    font-weight: 700;
+    text-align: center;
+}
+.btext2{
+    padding-top: 100px;
+}
+.btext2 p{
+    font-size: 15px;
+}
+.btext2 p span{
+    font-size: 15px;
+    font-weight: 700;
+}
+.btext2 b{
+    font-size: 15px;
+}
+.ptext2 img{
+    margin-top: 100px;
+    width: 80%;
+}
+.bvideo{
+    margin-top: 170px;
+    text-align: center;
+}
+.bvideo h1{
+    font-weight: 700;
+}
+.bvideo p{
+    font-size: 15px;
+    margin-top: 40px;
+    /* font-weight: s700; */
+}
+.vv{
+    padding-top: 100px;
+}

@@ -1,0 +1,40 @@
+.help{
+    text-align: center;
+    padding: 10%;
+}
+.help img{
+    width: 80px;
+}
+.help h1 span{
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 20px;
+}
+.help p{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+.slider{
+    border: 2px solid rgb(216, 213, 213);
+    background-color: white;
+    border-radius: 15px;
+    max-width: 90%;
+    padding: 2%;
+}
+.sbox{
+    padding: 2%;
+    border-bottom: 00.2px solid rgb(228, 221, 221);
+}
+.sbox h2{
+    cursor: pointer;
+    font-size: 25px;
+}
+.sbox h2 i{
+    color: rgb(0, 222, 255);
+}
+.sboxtext{
+    font-size: 15px;
+    color: grey;
+
+}

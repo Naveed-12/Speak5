@@ -1,0 +1,158 @@
+.profileheading h4{
+    font-size: 20px;
+    color: rgb(232, 234, 236);
+    margin-left: 20px;
+}
+.box{
+    padding-top: 2%;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+.box h2{
+    color: rgb(41, 128, 185);
+    font-size: 25px;
+    font-weight: 700;
+}
+.box p{
+    color: grey;
+    font-size: 20px;
+}
+.box i{    
+    font-size: 170px;
+    color: rgb(151, 175, 192);
+}
+.box button{
+    margin-bottom: 20px;
+    background-color: rgb(41, 128, 185);
+    color: white;
+    padding: 10px 80px 10px 80px;
+    border-radius: 25px;
+}
+.box button:hover{
+    color: white;
+}
+.returnbtn{
+    background-color: rgb(46, 204, 113);
+    color: white;
+    margin-bottom: 20px;
+    margin-left: 80%;
+    font-size: 25px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+@media only screen and (max-width: 988px) {
+    .returnbtn{
+        background-color: rgb(46, 204, 113);
+        color: white;
+        margin-bottom: 20px;
+        margin-left: 60%;
+        font-size: 25px;
+        padding: 5px 10px 5px 10px;
+        border-radius: 25px;
+        text-transform: uppercase;
+        font-weight: 500;
+    }   
+}
+.returnbtn:hover{
+    color: white;
+}
+.lessonbox p{
+    font-size: 20px;
+    /* margin: 50px; */
+    color: grey;
+}
+.greybox{
+    background-color: rgb(230, 240, 245);
+    width: 35%;
+    text-align: center;
+    margin-top: 20px;
+    padding: 2%;
+    border-radius: 15px;
+}
+.greybox h1{
+    font-size: 20px;
+    color: grey;
+}
+
+.greybox h2{
+    font-size: 20px;
+    color: rgb(70, 66, 66);
+}
+.red{
+    color: red;
+    font-weight: 700;
+}
+.kk b{
+    font-size: 20px;
+    color: rgb(37, 37, 37);
+    margin-top: 130px;
+}
+.kk p{
+    margin-top: 30px;
+}
+.greybox2{
+    background-color: rgb(230, 240, 245);
+    width: 75%;
+    text-align: center;
+    padding: 2%;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+span{
+    cursor: pointer;
+}
+.greybox span{
+    color: rgb(72, 192, 72);
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.greybox2 span{
+    color: rgb(72, 192, 72);
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.kk span{
+    color: rgb(72, 192, 72);
+    font-size: 20px;
+    font-weight: 700;
+}
+.kk h2{
+    font-size: 25px;
+    color: rgb(78, 75, 75);
+}
+.profilefooter{
+    padding: 1%;
+    background-color: rgb(218, 218, 218);
+}
+.profilefooter p{
+    font-size: 25px;
+    font-weight: 700;
+    color: grey;
+    margin-left: 35%;
+    /* margin-right: 30%; */
+}
+.followingbtn{
+    background-color: rgb(46, 204, 113);
+    padding: 10px 40px 10px 40px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 25px;
+    /* margin-left: 650px; */
+}
+.profilefooter .previousbtn{
+    background-color: rgb(151, 175, 192);
+    padding: 10px 40px 10px 40px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 25px;
+}

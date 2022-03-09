@@ -1,0 +1,2011 @@
+export let beginnerData = [[{
+    name: 'Grammer',
+    progress: 75,
+    width: '58.75%'
+}, {
+    name: 'Miniseries',
+    progress: 100,
+    width: '58.75%'
+}, {
+    name: 'Fluency',
+    progress: 60,
+    width: '58.75%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '58.75%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '58.75%'
+}], [{
+    name: 'Grammer',
+    progress: 15,
+    width: '13.25%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '13.25%'
+}, {
+    name: 'Fluency',
+    progress: 38,
+    width: '13.25%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '13.25%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '13.25%'
+}], [{
+        name: 'Grammer',
+        progress: 38,
+        width: '9.5%'
+    }, {
+        name: 'Miniseries',
+        progress: 0,
+        width: '9.5%'
+    }, {
+        name: 'Fluency',
+        progress: 0,
+        width: '9.5%'
+    }, {
+        name: 'Exam',
+        progress: 0,
+        width: '9.5%'
+    }, {
+        name: 'Live Class',
+        progress: 2,
+        width: '9.5%'
+    }
+], [{
+    name: 'Grammer',
+    progress: 60,
+    width: '24.5%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+   width: '24.5%'
+}, {
+    name: 'Fluency',
+    progress: 37,
+    width: '24.5%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '24.5%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '24.5%'
+}],  [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluency',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 100,
+    width: '64.75%'
+}, {
+    name: 'Miniseries',
+    progress: 100,
+    width: '64.75%'
+}, {
+    name: 'Fluency',
+    progress: 59,
+    width: '64.75%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '64.75%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '64.75%'
+}],[{//
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 60,
+    width: '15%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '15%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '15%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '15%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '15%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '3.5%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '3.5%'
+}, {
+    name: 'Fluency',
+    progress: 14,
+    width: '3.5%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '3.5%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '3.5%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '17.25%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '17.25%'
+}, {
+    name: 'Fluency',
+    progress: 12,
+    width: '17.25%'
+}, {
+    name: 'Exam',
+    progress: 57,
+    width: '17.25%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '17.25%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 17,
+    width: '9.5%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '9.5%'
+}, {
+    name: 'Fluency',
+    progress: 21,
+    width: '9.5%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '9.5%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '9.5%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}]]
+
+export let preIntermediate = [[{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 89,
+    width: '22.5%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '22.5%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '22.5%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '22.5%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '22.5%'
+}], [{
+    name: 'Grammer',
+    progress: 100,
+    width: '25%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '25%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '25%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '25%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '25%'
+}], [{
+    name: 'Grammer',
+    progress: 83,
+    width: '20.75%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '20.75%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '20.75%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '20.75%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '20.75%'
+}], [{
+    name: 'Grammer',
+    progress: 17,
+    width: '4.25%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '4.25%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '4.25%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '4.25%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '4.25%'
+}], [{
+    name: 'Grammer',
+    progress: 88,
+    width: '22%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '22%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '22%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '22%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '22%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 67,
+    width: '16.75%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '16.75%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '16.75%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '16.75%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '16.75%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 89,
+    width: '22.25%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+   width: '22.25%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+   width: '22.25%'
+}, {
+    name: 'Exam',
+    progress: 0,
+   width: '22.25%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+   width: '22.25%'
+}], [{
+    name: 'Grammer',
+    progress: 67,
+    width: '16.75%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '16.75%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '16.75%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '16.75%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+   width: '16.75%'
+}], [{
+    name: 'Grammer',
+    progress: 90,
+    width: '22.5%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '22.5%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '22.5%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '22.5%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '22.5%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 95,
+    width: '26.25%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '26.25%'
+}, {
+    name: 'Fluency',
+    progress: 10,
+    width: '26.25%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '26.25%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '26.25%'
+}], [{
+    name: 'Grammer',
+    progress: 83,
+    width: '20.75%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '20.75%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '20.75%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '20.75%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '20.75%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}]]
+
+export let intermediate = [[{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 100,
+    width: '62%'
+}, {
+    name: 'Miniseries',
+    progress: 100,
+    width: '62%'
+}, {
+    name: 'Fluidity',
+    progress: 38,
+    width: '62%'
+}, {
+    name: 'Exam',
+    progress: 10,
+    width: '62%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '62%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}]]
+
+export let intermediateAdvanced = [[{
+    name: 'Grammer',
+    progress: 50,
+    width: '12.5%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '12.5%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '12.5%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '12.5%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '12.5%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 100,
+    width: '50%'
+}, {
+    name: 'Miniseries',
+    progress: 100,
+    width: '50%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '50%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '50%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '50%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 29,
+    width: '9.5%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '9.5%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '9.5%'
+}, {
+    name: 'Exam',
+    progress: 9,
+    width: '9.5%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '9.5%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}]]
+
+export let advanceBusiness = [[{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 100,
+    width: '58%'
+}, {
+    name: 'Miniseries',
+    progress: 100,
+    width: '58%'
+}, {
+    name: 'Fluidity',
+    progress: 10,
+    width: '58%'
+}, {
+    name: 'Exam',
+    progress: 22,
+    width: '58%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '58%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '25%'
+}, {
+    name: 'Miniseries',
+    progress: 100,
+    width: '25%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '25%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '25%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '25%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}], [{
+    name: 'Grammer',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Miniseries',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Fluidity',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Exam',
+    progress: 0,
+    width: '0%'
+}, {
+    name: 'Live Class',
+    progress: 2,
+    width: '0%'
+}]]
+

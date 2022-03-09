@@ -1,0 +1,244 @@
+.advancecontainer{
+  margin-top: 50px;
+  background-color: white;
+}
+
+.bg-blue {
+    background-color: rgb(63, 128, 186);
+    border-radius: 4px 4px 0 0;
+    width: 100%;
+  }
+  
+  .bg-blue h5 {
+    padding: 20px 30px;
+  }
+  .paragraph {
+    float: none;
+    margin: auto;
+    line-height: 16px;
+  }
+  .paragraph p {
+    font-size: 16px;
+    color: #536c84;
+  }
+  
+  .table-responsive {
+    max-width: 450px;
+    min-height: .01%;
+    overflow-x: scroll;
+    margin-left: 60px;
+  }
+  .table-header {
+    vertical-align: middle;
+    background: #fafafa;
+    background: -moz-linear-gradient(top, #fafafa 0%, #f6f6f6 37%, #f6f6f6 37%, #e0e0e0 62%, #ededed 98%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fafafa 0%,#f6f6f6 37%,#f6f6f6 37%,#e0e0e0 62%,#ededed 98%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fafafa 0%,#f6f6f6 37%,#f6f6f6 37%,#e0e0e0 62%,#ededed 98%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    
+  }
+  
+  .border {
+    border: 0px;
+  }
+  
+  .border-2 {
+    border: 1px solid #ccc;
+  }
+  table {
+    border: 2px solid #ccc;
+  }
+  
+  .myTable {
+    margin: 0 6%;
+    width: 88%;
+  }
+  
+  .select-box {
+    border-radius: 4px;
+    background-color: #e7f2f7;
+    border: none;
+    font-size: 13px;
+    font-weight: bold;
+    color: #536c84;
+    padding: 7px 10px;
+    margin-right: 3px;
+  }
+  
+  
+  .svg{
+    display: block;
+    max-width: 100%;
+  }
+  
+  .svg-circle-bg {
+    fill: none;
+  }
+  
+  .svg-circle {
+    fill: none;
+  }
+  
+  .svg-circle-text {
+    font-size: 14px;
+    text-anchor: middle;
+    fill: #afb1ae;
+    font-weight: bold;
+    transition: .4s ease;
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+  
+  .svg-circle-text:hover {
+    font-size: 15px;
+    fill: #99e265;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .svg-circle-text-2 {
+    font-size: 14px;
+    text-anchor: middle;
+    fill: #afb1ae;
+    font-weight: bold;
+    transition: .4s ease;
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+  
+  .svg-circle-text-2:hover {
+    font-size: 15px;
+    fill: #60c3cd;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .my-container {
+      margin: 0 -15px;
+    }
+  }
+  
+  .style-1 {
+   margin-right: 2% !important;
+  }
+  
+  .style-2 {
+    padding:5px !important;
+    border-radius:4px !important;
+  }
+  
+  .style-3 { 
+    border-radius:8px !important;
+  }
+  
+  .bg-gredient{
+    
+    background: #ffffff; 
+    background: -moz-linear-gradient(top, #ffffff 0%, #f3f3f3 34%, #ededed 100%, #ffffff 100%); 
+    background: -webkit-linear-gradient(top, #ffffff 0%,#f3f3f3 34%,#ededed 100%,#ffffff 100%); 
+    background: linear-gradient(to bottom, #ffffff 0%,#f3f3f3 34%,#ededed 100%,#ffffff 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); 
+  }
+  
+  
+  .style-4 {
+    font-size:13px !important; 
+    font-weight:bold !important; 
+    color:#97afc0 !important; 
+    padding:12px 20px !important; 
+    margin:0 !important;
+  }
+  
+  .style-5 {
+    width:40% !important; 
+    background-color:#d2c8bf !important; 
+    border-radius:3px !important; 
+    height:10px !important; 
+    float:left !important;
+    margin-top:5px !important;
+  }
+  
+  .style-6 {
+    font-size:13px !important; 
+    font-weight:bold !important;
+    color:#97afc0 !important;
+    text-align:right !important;
+    float:left !important;
+    margin-left:20px !important;
+    position: relative;
+    top: -44px;
+    right: 0;
+    left: 250px;
+  }
+  
+  .mggg{
+    position: relative;
+    top: -44px;
+    right: 0;
+    left: 250px;
+    width: 35% !important;
+    margin-bottom: 15% !important;
+  }
+  
+  
+  /* MobileNavbar.js */
+  .my-nav
+   {
+     float: right;
+    background-color:#5db7fe;
+    width: 400px;
+    height: 100vh;
+    display: none;
+  }
+  .my-btn {
+    float: right;
+    background-color: #70dffd;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 5px 10px;
+    margin: 0px 60px;
+    border-radius: 5px;
+  
+  }
+  .my-ul {
+    display: block;
+    margin-top: 60px;
+    float: left;
+  }
+  
+  .my-ul li a {
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+  
+  }
+  
+  .my-ul li {
+    list-style: none;
+    line-height: 60px;
+  }
+  
+  .my-btn:hover {
+    color: #fff;
+  }
+  
+  @media screen and (max-width: 991px) {
+    .my-nav {
+    display: block;
+    width: 300px;
+    height: 100vh;
+    }
+    .my-nav ul {
+    margin-top: 80px;
+  
+    }
+    .my-btn {
+      margin: 30px 30px;
+    }
+  }

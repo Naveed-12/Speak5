@@ -1,0 +1,244 @@
+.signinbox{
+    background: white;
+    max-width: 40%;
+    /* text-align: center; */
+    padding: 1%;
+}
+.headsignin{
+    max-width: 100%;
+    border-bottom: 0.5px solid rgb(211, 207, 207);
+}
+.headsignin h1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.headsignin img{
+    margin-left: 70%;
+    margin-top: -35%;
+}
+.signinbox input{
+    width: 80%;
+    margin: 5%;
+    padding:20px 1px 20px 1px;
+    border: none;
+    background-color: rgb(247, 248, 248);
+}
+
+.signinbox input::placeholder{
+    font-size: 15px;
+    padding-left: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.signinbox p{
+    color: rgb(80, 77, 77);
+    margin-top: 15px;
+    font-size: 15px;
+    margin-left: 35px;
+}
+.signinbox p:hover{
+    text-decoration: underline;
+}
+.or{
+    display: flex;
+}
+.or hr{
+    width: 45%;
+}
+.or b{
+    font-size: 25px;
+    font-weight: 100;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Enterbtn{
+    background-color: rgb(0, 222, 255);
+    margin-left: 30px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 55px;
+    padding: 8px 50px 10px 50px;
+}
+.sregister{
+    background-color: rgb(137, 250, 131);
+    margin-left: 30px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 55px;
+    margin-top: 30px;
+    padding: 1% 30% 1% 30%;
+
+}
+.sregister:hover{
+    color: white;
+    border: 0.5px solid rgb(0, 222, 255);
+}
+.Enterbtn:hover{
+    color: white;
+}
+@media only screen and (max-width: 1325px) {
+    .headsignin img{
+        display: none;
+    }   
+}
+@media only screen and (max-width: 981px) {
+    .signinbox{
+        background: white;
+        max-width: 90%;
+        /* text-align: center; */
+        padding: 2%;
+    }   
+}
+.signup h1{
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+}
+.signup p{
+    font-size: 15px;
+    font-weight: 600;
+    color: grey;
+}
+.signup h3{
+    font-size: 25px;
+    margin-top: 40px;
+    font-weight: 700;
+}
+
+.signup h4{
+    font-size: 20px;
+    /* margin-top: 40px; */
+    font-weight: 700;
+    color: rgb(97, 93, 93);
+}
+
+.signup h5{
+    font-size: 18px;
+    color: grey;
+    margin-top: 10px;
+}
+.paymentbox{
+    background-color: white;
+    border: 2px solid rgb(184, 179, 179);
+    border-radius: 10px;
+    padding: 5%;
+    margin: 2%;
+    width: 60%;
+    /* float: left; */
+}
+.paymentbox h1{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(73, 73, 73);
+}
+.paymentbox p{
+    font-size:15px;
+    margin-top: 10px;
+    color: grey;
+    margin-bottom: 80px;
+}
+.paymentbox label{
+    font-size: 18px;
+    color: grey;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.paymentbox .input{
+    border: none;
+    border-bottom: 4px solid rgb(212, 209, 209);
+    width: 95%;
+    margin-bottom: 40px;
+}
+.paymentbox .input:focus {        
+    outline: none;
+}
+.radios{
+    /* background-color: yellow; */
+    /* display: flex; */
+    position: relative;
+}
+.h3{
+    font-size: 20px;
+    margin-top: 50px;
+    color: grey;
+}
+.paymentbox p{
+    font-size: 15px;
+    margin-top: 50px;
+}
+.paymentbox p span{
+    color: blue;
+    cursor: pointer;
+}
+
+
+.container2 {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    /* top: 10%; */
+    /* left: 30%; */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  /* Hide the browser's default checkbox */
+  .container2 input {
+    /* posit2ion: absolute; */
+    /* opacity: 0; */
+    /* cursor: pointer; */
+    height: 0;
+    width: 0;
+  }
+  
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+  }
+  
+  .container2:hover input ~ .checkmark {
+    background-color: #ccc;
+  }
+  
+  .container2 input:checked ~ .checkmark {
+    background-color: #2196F3;
+  }
+  
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  
+  input:checked ~ .checkmark:after {
+    display: block;
+  }
+  
+  /* Style the checkmark/indicator */
+   .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }

@@ -1,0 +1,155 @@
+.coursecontainer{
+    padding: 5%;
+    background-color: rgb(239, 240, 240);
+    width: 110%;
+    margin-top: 100px;
+    border: 0.8 px solid grey;
+    border-radius: 25px;
+}
+.courses ul{
+    display: inline;
+    text-align: left;
+}
+.courses ul li{
+    list-style: none;
+    margin-top: 40px;
+}
+.courses ul li b span{
+    text-decoration: line-through;
+    color: red;
+}
+.courses h1{
+    margin-top: 80px;
+    font-weight: 700;
+    font-size: 60px;
+}
+.courses h1 span{
+    text-decoration: line-through;
+}
+.offerbtn h1{
+    color: white;
+    font-size: 30px;
+}
+.offerbtn p{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+.offerbtn{
+    margin-top: 100px;
+    margin-left: 20%;
+    background-color: rgb(0, 222, 225);
+    padding: 0px 20px 20px 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.offerbtn2 h1{
+    color: white;
+    font-size: 30px;
+}
+.offerbtn2 p{
+    font-size: 20px;
+    color: white;
+    margin-top: -15px;
+    font-weight: 700;
+}
+.offerbtn2{
+    margin-top: 100px;
+    margin-left: 20%;
+    background-color: rgb(0, 222, 225);
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+.live{
+    text-align: center;
+}
+.live h2{
+    font-size: 60px;
+    color: Black;
+    font-weight: 700;
+}
+.video{
+    padding: 100px;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.marg{
+    margin-top: 100px;
+}
+.enrollbtn{
+    background-color: rgb(0, 222, 225);
+    padding: 10px 20px 20px 20px;
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 15px;
+}
+.head{
+    font-size: 90px;
+    font-weight: 700;
+}
+.guaratee{
+    margin-top: 100px;
+}
+.guaratee h2{
+    font-weight: 700;
+    margin-left: 200px;
+}
+.guaratee h3{
+    font-weight: 700;
+    font-size: 30px;
+    color: black;
+    margin-left: 200px;
+    margin-top: -2px;
+}
+.guaratee p{
+    margin-left: 200px;
+}
+@media only screen and (max-width: 1000px){
+    .guaratee h2{
+        font-weight: 700;
+        margin-left: 220px;
+    }
+    .guaratee h3{
+        font-weight: 700;
+        font-size: 30px;
+        color: black;
+        margin-left: 20px;
+        margin-top: -2px;
+    }   
+    
+    .guaratee p{
+        margin-left: 20px;
+    }
+}
+@media only screen and (max-width: 766px){
+    .guaratee h2{
+        font-weight: 700;
+        margin-left: 20px;
+    }
+    .guaratee h3{
+        font-weight: 700;
+        font-size: 30px;
+        color: black;
+        margin-left: 20px;
+        margin-top: -2px;
+    }  
+    
+    .guaratee p{
+        margin-left: 20px;
+    } 
+}
+.par2{
+    /* background-color: yellow; */
+    width: 100%;
+    padding: 10%;
+}
+.g2{
+    margin-top: -100px;
+}

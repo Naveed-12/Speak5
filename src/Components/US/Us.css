@@ -1,0 +1,23 @@
+.us {
+  text-align: center;
+}
+.us h1 {
+  font-size: 40px;
+  font-weight: 800;
+}
+.us p {
+  font-size: 15px;
+}
+.btext2 h2 {
+  font-size: 30px;
+  font-weight: 800;
+}
+.btext2 h3 {
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+.usvideo {
+  margin-top: 250px;
+  margin-left: 80px;
+}
